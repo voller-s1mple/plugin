@@ -1,0 +1,12 @@
+admin-menu:
+  title: "&8Коды и статистика"
+  size: 27
+
+  items:
+    info:
+      slot: 13
+      material: BOOK
+      name: "&eИнформация"
+      lore:
+        - "&7Здесь показывается"
+        - "&7статистика по кодам."

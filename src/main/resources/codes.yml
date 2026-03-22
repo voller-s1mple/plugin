@@ -1,0 +1,72 @@
+codes:
+  free:
+    type: PROMO
+    enabled: true
+    one-time: true
+    exclusive-group: ""
+    owner: ""
+    rewards:
+      - "crate give %player% donate 5"
+      - "crate give %player% coins 3"
+
+  donater:
+    type: PROMO
+    enabled: true
+    one-time: true
+    exclusive-group: "choice"
+    owner: ""
+    rewards:
+      - "crate give %player% donate 5"
+      - "crate give %player% coins 3"
+
+  info1:
+    type: PROMO
+    enabled: true
+    one-time: true
+    exclusive-group: ""
+    owner: ""
+    rewards:
+      - "crate give %player% donate 5"
+      - "crate give %player% coins 3"
+
+  rimboy:
+    type: REFERRAL
+    enabled: true
+    one-time: true
+    exclusive-group: "choice"
+    owner: "Rimboy"
+    rewards:
+      - "crate give %player% donate 5"
+      - "crate give %player% coins 3"
+
+  streamer1:
+    type: REFERRAL
+    enabled: true
+    one-time: true
+    exclusive-group: ""
+    owner: "Streamer1"
+    rewards: []
+
+  streamer2:
+    type: REFERRAL
+    enabled: true
+    one-time: true
+    exclusive-group: ""
+    owner: "Streamer2"
+    rewards: []
+
+  streamer3:
+    type: REFERRAL
+    enabled: true
+    one-time: true
+    exclusive-group: ""
+    owner: "Streamer3"
+    rewards: []
+
+  streamer4:
+    type: REFERRAL
+    enabled: true
+    one-time: true
+    exclusive-group: ""
+    owner: "Streamer4"
+    rewards: []

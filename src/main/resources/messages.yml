@@ -1,0 +1,13 @@
+messages:
+  no-permission: "&cУ тебя нет прав."
+  player-only: "&cЭту команду может использовать только игрок."
+  usage-ref: "&eИспользование: /ref <код>"
+  usage-admin: "&eИспользование: /refadmin [reload|menu|stats]"
+  code-not-found: "&cТакого кода не существует."
+  code-disabled: "&cЭтот код отключён."
+  code-already-used: "&cТы уже использовал этот код."
+  code-group-blocked: "&cТы уже использовал другой код из этой группы."
+  code-success: "&aТы успешно активировал код: &f%code%"
+  admin-reload: "&aКонфиги плагина перезагружены."
+  admin-stats-header: "&6Статистика кодов:"
+  admin-menu-opened: "&aАдмин-меню открыто."

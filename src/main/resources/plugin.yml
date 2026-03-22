@@ -1,0 +1,20 @@
+name: RimboyReferral
+version: 1.0
+main: me.rimboy.referral.RimboyReferralPlugin
+api-version: 1.16
+author: Rimboy
+description: Referral and promo code system for Spigot 1.16.5
+
+commands:
+  ref:
+    description: Использовать промокод или реферальный код
+    usage: /ref <code>
+  refadmin:
+    description: Админ команда плагина
+    usage: /refadmin
+    permission: rimboyref.admin
+
+permissions:
+  rimboyref.admin:
+    description: Доступ к админ командам плагина
+    default: op

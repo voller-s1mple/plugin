@@ -1,0 +1,5 @@
+settings:
+  prefix: "&6[RimboyReferral] &f"
+  auto-save-seconds: 60
+  case-sensitive-codes: false
+  open-admin-menu-on-command: true
